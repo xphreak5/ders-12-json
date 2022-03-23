@@ -39,7 +39,7 @@ var i = 1
 
 document.querySelector("button").addEventListener("click", () => {
     console.log(i, "Kere tikladiniz")
-    i++
+    i--
 })
 
 
